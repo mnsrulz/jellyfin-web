@@ -135,7 +135,6 @@
   ],
   "scripts": {
     "start": "node app.js",
-    "postinstall": "gulp --production",
     "serve": "gulp serve --development",
     "prepare": "gulp --production",
     "build:development": "gulp --development",
